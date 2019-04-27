@@ -1,2 +1,2 @@
 # Seminars
-the study materials of seminar 
+Here are the study materials of each weekly seminar of our lab.
